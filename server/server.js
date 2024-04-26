@@ -16,7 +16,7 @@ connectDb()
 
 export const stripe = Stripe(process.env.STRIPE_SECRET_TEST)
 const app = express()
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || 4000;
 
 app.use(cors())
 app.use(json())
