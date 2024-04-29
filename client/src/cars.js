@@ -4,7 +4,7 @@ const cars = [
     name: 'Mercedes e220d',
     brand: 'Mercedes',
     transmission: 'Automatic',
-    pricePerDay: 30,
+    pricePerDay: 10000,
     yearModel: 2017,
     seatCapacity: 5,
 
@@ -21,7 +21,7 @@ const cars = [
     name: 'BMW 330i sport',
     brand: 'BMW',
     transmission: 'Automatic',
-    pricePerDay: 100,
+    pricePerDay: 10000,
     yearModel: 2021,
     seatCapacity: 5,
 
@@ -38,7 +38,7 @@ const cars = [
     name: 'VolksWagen Comfortline 1.0 TSI MT',
     brand: 'VolksWagen',
     transmission: 'Manual',
-    pricePerDay: 80,
+    pricePerDay: 4000,
     yearModel: 2022,
     seatCapacity: 5,
 
@@ -55,7 +55,7 @@ const cars = [
     name: 'Audi A7 3.0T',
     brand: 'Audi',
     transmission: 'Automatic',
-    pricePerDay: 200,
+    pricePerDay:  10000,
     yearModel: 2022,
     seatCapacity: 5,
 
@@ -72,7 +72,7 @@ const cars = [
     name: 'Mercedes-Benz CLS 350',
     brand: 'Mercedes',
     transmission: 'Automatic',
-    pricePerDay: 100,
+    pricePerDay: 10000,
     yearModel: 2017,
     seatCapacity: 5,
 

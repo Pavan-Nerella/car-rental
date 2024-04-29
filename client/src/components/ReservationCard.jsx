@@ -15,7 +15,7 @@ const ReservationCard = ({ reservation }) => {
         <h2 className="card-title">{reservation.reservationItem.brand}</h2>
         <p>
           The car is reserved from {formatDate(reservation.fromDate)} to{' '}
-          {formatDate(reservation.toDate)} totalCost {reservation.totalCost} €
+          {formatDate(reservation.toDate)} totalCost ₹ {reservation.totalCost} 
         </p>
         <div>
           {reservation.isApproved ? (

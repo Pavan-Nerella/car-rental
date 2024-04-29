@@ -90,7 +90,7 @@ const UsersList = () => {
                 </tr>
               ))}
           </tbody>
-          <tfoot>
+          {/* <tfoot>
             <tr>
               <th></th>
               <th>Name</th>
@@ -100,7 +100,7 @@ const UsersList = () => {
               <th></th>
               <th></th>
             </tr>
-          </tfoot>
+          </tfoot> */}
         </table>
       </div>
     </>

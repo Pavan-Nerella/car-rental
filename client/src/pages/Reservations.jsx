@@ -122,7 +122,7 @@ const Reservations = () => {
               </tr>
             ))}
         </tbody>
-        <tfoot>
+        {/* <tfoot>
           <tr>
             <th></th>
             <th>CarId</th>
@@ -135,7 +135,7 @@ const Reservations = () => {
             <th>Approved</th>
             <th></th>
           </tr>
-        </tfoot>
+        </tfoot> */}
       </table>
     </div>
   )

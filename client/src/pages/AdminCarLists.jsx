@@ -87,7 +87,7 @@ const AdminCarLists = () => {
               </tr>
             ))}
           </tbody>
-          <tfoot>
+          {/* <tfoot>
             <tr>
               <th></th>
               <th>CarId</th>
@@ -98,7 +98,7 @@ const AdminCarLists = () => {
               <th></th>
               <th></th>
             </tr>
-          </tfoot>
+          </tfoot> */}
         </table>
       </div>
     </>

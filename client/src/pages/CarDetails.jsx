@@ -100,7 +100,7 @@ const CarDetails = () => {
               </div>
             </div>
             <div className="flex flex-col">
-              <p className="text-4xl text-accent mb-5">{car.pricePerDay} $</p>
+              <p className="text-4xl text-accent mb-5"> ₹ {car.pricePerDay}</p>
               <label htmlFor="fromdate">From Date</label>
               <DatePicker
                 className="bg-neutral rounded-md px-2"
